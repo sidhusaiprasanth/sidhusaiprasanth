@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sort ./projectnames > newprojectnames
+sort ./imagenames > newimagenamesv7
 
 
 
